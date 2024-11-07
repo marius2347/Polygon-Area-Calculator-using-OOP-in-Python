@@ -1,4 +1,4 @@
-<h1>Polygon Area Calculator - Python Project</h1>
+<h1>Polygon-Area-Calculator using OOP in Python</h1>
 <br>
 <h2>Features</h2>
 <ul>
